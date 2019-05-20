@@ -1,0 +1,18 @@
+[10-Sep-2017 11:29:27 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:27 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:27 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
+[10-Sep-2017 11:29:29 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:29 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
+[10-Sep-2017 11:29:34 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:34 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:34 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
+[10-Sep-2017 11:29:47 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:47 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:47 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
+[10-Sep-2017 11:29:48 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:48 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:48 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
+[10-Sep-2017 11:29:57 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'vc' in C:\xampp\htdocs\vyaktitva\connect.php on line 6
+[10-Sep-2017 11:29:57 Europe/Berlin] Error log!
+[10-Sep-2017 11:29:57 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\xampp\htdocs\vyaktitva\dashboard\pages\header.php on line 19
